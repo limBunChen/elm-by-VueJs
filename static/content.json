@@ -1,0 +1,1911 @@
+[
+{
+"address": "上海市南京西路2-68号",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "必胜客（新世界店）",
+"distance": 523,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 20,
+"id": 834828,
+"image_path": "1c2a34b4ce63e4ac11494b916d3e8ab6jpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.235082,
+"longitude": 121.473686,
+"name": "必胜客（新世界店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/20:30"
+],
+"order_lead_time": 37,
+"phone": "021-63592395",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 20
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "",
+"rating": 4.6,
+"rating_count": 136,
+"recent_order_num": 445,
+"recommend": {
+"track": {"rankType":"3"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区人民路888号",
+"description": "必胜宅急送",
+"distance": 485,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 308528,
+"image_path": "30d90c91aafa37de8ec0488c731c2deejpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.234737,
+"longitude": 121.47384,
+"name": "必胜宅急送（人民店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/22:00"
+],
+"order_lead_time": 0,
+"phone": "4009208809",
+"piecewise_agent_fee": {
+"description": "配送费9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+}
+],
+"tips": "配送费9元"
+},
+"promotion_info": "欢迎光临必胜宅急送品牌官方店，专营外送，丰富选择，价格亲民。如您需要开发票，请在订单备注开票抬头，7月1日起我们将为您提供电子发票提取码，您可以根据小票上的提示自行下载。",
+"rating": 4.8,
+"rating_count": 501,
+"recent_order_num": 1562,
+"recommend": {
+"track": {"rankType":"3"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+},
+{
+"address": " 上海市黄浦区南京西路2-88号新世界城B1楼(近西藏中路) ",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "Taste is King！Home of the WHOPPER！",
+"distance": 443,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 20,
+"id": 135394,
+"image_path": "9b4fe1b4652a5e88df91a0d55703811djpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.234354,
+"longitude": 121.473442,
+"name": "汉堡王（上海新世界店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:00"
+],
+"order_lead_time": 33,
+"phone": "021-63595604 15901947615",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 20
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "拥有60多年历史的汉堡王，是全球大型连锁餐饮企业，截止至2016年上半年，汉堡王在全球100多个国家及地区经营着超过15000家门店，现已全面加入外卖领导品牌饿了么，期待您的管理，配送问题可联系饿了么客服热线10105757.",
+"rating": 4.8,
+"rating_count": 348,
+"recent_order_num": 1265,
+"recommend": {
+"track": {"rankType":"3"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "复兴中路66号",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "老板姓冒，朋友们总说我是傻子。但我觉得饭馆只有花傻力气土功夫才能做好。",
+"distance": 1509,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1983031,
+"image_path": "deded38560d33600a17593813276662fjpeg",
+"is_new": true,
+"is_premium": true,
+"latitude": 31.218537,
+"longitude": 121.481475,
+"name": "集食号（人民广场店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/21:00"
+],
+"order_lead_time": 38,
+"phone": "13166208039",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "客官大人，老冒恭候多时，终于把您盼来了！本店只合作饿了么网上订餐平台，靠谱！ 老冒不是抠门的人，各种让利优惠活动老冒紧跟时代潮流绝不含糊，客官要常来啊。 请确保您的电话畅通，以便送餐员能及时联系上您；为了确保能及时用餐希望您提前45分钟以上预定下单，避开高峰时期。发票：",
+"rating": 4.1,
+"rating_count": 20,
+"recent_order_num": 168,
+"recommend": {
+"track": {"rankType":"5"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市闸北区共和新路480号",
+"bidding": {"index":4,"target":{"restaurantId":92979,"weight":300,"probability":11.25901985168457},"come_from":1,"next":{"restaurantId":31281,"weight":190,"probability":15.663780212402344}},
+"description": "A梦餐廳Eamonn's 闸北(共新店)以时下最流行的创意菜为主线,食材新鲜，用料讲究，精心烹调，口味丰富，有特色砂锅系列套餐，干锅系列，烩饭，芝士烤饭，咖喱饭，蛋包饭，Friedrice，Pasta，小海鲜，精美小炒，特色家常菜为主，店面大气而典雅，300平米用餐环境，2个连体包房，80个餐位，经营业态：堂吃，外卖和外带，A梦已经打造出一套完整的外送体系，滿足不同另类要求，十年树木，百年树人，千年树品牌，以客為尊，全新打造上海本土品牌新纪元",
+"distance": 2564,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 45,
+"id": 92979,
+"image_path": "f617744b9b3576e343b0a8975bc99195png",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.2516313276946,
+"longitude": 121.463252655069,
+"name": "A梦Eamonns(共新店)",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:00/03:00"
+],
+"order_lead_time": 49,
+"phone": "66075363 66078657 66075516",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 45
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "A梦餐廳Eamonn's 闸北(共新店)位于共和新路480号，晚市及夜宵堂吃爆款优惠活动，每桌满88元，即可享受7款1元超值特价，干锅牛蛙1元，西湖糖醋大黄鱼1元，椒盐龙头烤1元，清蒸鲈鱼1元，孜然小肥牛1元，蟹粉豆腐1元，红烧鳊鱼1元，本餐厅所有食物为下单后现做，热炒，新鲜食材，小锅菜，中午用餐的顾客请提前1个小时预定订单，谢谢！本餐厅外卖保温采用顶级pvc内胆隔源储温技术，保证热气腾腾的食物！！！本店客服电话 021-66075363, 021-66075516, 021-66078657",
+"rating": 4.7,
+"rating_count": 4372,
+"recent_order_num": 12181,
+"recommend": {
+"reason": "广告",
+"track": {"rankType":"8"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+},
+{
+"address": "复兴中路66号",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "老板姓冒，朋友们总说我是傻子。但我觉得饭馆只有花傻力气土功夫才能做好。",
+"distance": 1506,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1983021,
+"image_path": "fe51c448afcb7e70f35d50d2095db77bjpeg",
+"is_new": true,
+"is_premium": true,
+"latitude": 31.218633,
+"longitude": 121.481615,
+"name": "土老冒黄焖鸡米饭（人民广场店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:00/21:00"
+],
+"order_lead_time": 37,
+"phone": "13166208039",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "客官大人，老冒恭候多时，终于把您盼来了！本店只合作饿了么网上订餐平台，靠谱！ 老冒不是抠门的人，各种让利优惠活动老冒紧跟时代潮流绝不含糊，客官要常来啊。 请确保您的电话畅通，以便送餐员能及时联系上您；为了确保能及时用餐希望您提前45分钟以上预定下单，避开高峰时期。发票：",
+"rating": 3.9,
+"rating_count": 33,
+"recent_order_num": 263,
+"recommend": {
+"track": {"rankType":"5"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市云南南路79号",
+"description": "美味烧腊",
+"distance": 879,
+"float_delivery_fee": 2,
+"float_minimum_order_amount": 20,
+"id": 263400,
+"image_path": "3e96a93b7d4cdc0b1a427737aac83249jpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.225929,
+"longitude": 121.481353,
+"name": "福荣祥烧腊（云南南路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:00/19:45"
+],
+"order_lead_time": 35,
+"phone": "17717541397",
+"piecewise_agent_fee": {
+"description": "配送费2元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 2,
+"price": 20
+}
+],
+"tips": "配送费2元"
+},
+"promotion_info": "正宗港式烧腊套餐---首选福荣祥！！！ 1，上午10:00--12：00，下午16:30-18:30为外卖高峰高峰期，为了您及时用餐，请提前1小时订餐！ 2，本店提供商务会议团体订餐，量大者请提前拨打本店电话预定。 3，每份烧腊饭赠送蜜味红肠+爽口萝卜干+新鲜青菜+芙蓉汤",
+"rating": 4.5,
+"rating_count": 236,
+"recent_order_num": 1678,
+"recommend": {
+"track": {"rankType":"4"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [ ]
+},
+{
+"address": "上海市黄浦区西藏中路268号B1-16",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "",
+"distance": 362,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 2015396,
+"image_path": "c1c848899fd5c0dd7645d91762b8850ajpeg",
+"is_new": true,
+"is_premium": true,
+"latitude": 31.23247,
+"longitude": 121.476624,
+"name": "家有好面（来福士店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:00"
+],
+"order_lead_time": 37,
+"phone": "13661633779",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "",
+"rating": 4.8,
+"rating_count": 14,
+"recent_order_num": 71,
+"recommend": {
+"track": {"rankType":"4"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区金陵东路569号102室",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "东北人家（金陵东路店） ",
+"distance": 791,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1501057,
+"image_path": "9d094aa9794e84e8a2aedb84bcf61b9ajpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.226995,
+"longitude": 121.481033,
+"name": "东北人家（金陵东路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:30"
+],
+"order_lead_time": 40,
+"phone": "02163858867",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "东北人家全国品牌连锁，欢迎您来餐厅体验我们最热情的服务！",
+"rating": 4,
+"rating_count": 103,
+"recent_order_num": 255,
+"recommend": {
+"track": {"rankType":"4"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "海口路37号",
+"bidding": {"index":9,"target":{"restaurantId":31281,"weight":190,"probability":15.663780212402344},"come_from":1,"next":{"restaurantId":1883367,"weight":300,"probability":9.804909706115723}},
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "日式牛丼職人社 专做中国最美味的牛丼",
+"distance": 720,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 31281,
+"image_path": "b1070f392f0f49242adf0cd03a82d775png",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.23178,
+"longitude": 121.4811,
+"name": "牛匠·日式便当（人广店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:45/21:15"
+],
+"order_lead_time": 38,
+"phone": "13818348231 ",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "商家联系电话：13818348231",
+"rating": 4.6,
+"rating_count": 646,
+"recent_order_num": 2829,
+"recommend": {
+"reason": "广告",
+"track": {"rankType":"8"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "黄浦区肇周路114弄1号",
+"description": "",
+"distance": 1956,
+"float_delivery_fee": 2,
+"float_minimum_order_amount": 20,
+"id": 1011553,
+"image_path": "0693e05f29f348069bdd73bfce5638ffjpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.213627,
+"longitude": 121.480037,
+"name": "正宗天香麻辣烫(建国东路店)",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"00:00/24:00"
+],
+"order_lead_time": 39,
+"phone": "13666653496",
+"piecewise_agent_fee": {
+"description": "配送费2元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 2,
+"price": 20
+}
+],
+"tips": "配送费2元"
+},
+"promotion_info": "",
+"rating": 4.5,
+"rating_count": 220,
+"recent_order_num": 830,
+"recommend": {
+"track": {"rankType":"9"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [ ]
+},
+{
+"address": "上海市黄浦区 南京西路258号三层B区",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "欢迎光临！",
+"distance": 361,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 475811,
+"image_path": "21c3d45c2cdf9a3178772024928a4816png",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.232486,
+"longitude": 121.470808,
+"name": "南京大牌档（人民广场世茂店)",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"11:00/14:00",
+"17:00/21:00"
+],
+"order_lead_time": 41,
+"phone": "021-39539777",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "",
+"rating": 4.6,
+"rating_count": 1901,
+"recent_order_num": 3759,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区西藏中路525号3层313-316号商铺",
+"description": "强势推荐，盒马外卖，互联网品牌，五星级餐饮品质，准时送达！ 电话：4008288477",
+"distance": 689,
+"float_delivery_fee": 6,
+"float_minimum_order_amount": 10,
+"id": 932016,
+"image_path": "253ea8c925fff26216607fdb04513230png",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.2365543385098,
+"longitude": 121.473104930364,
+"name": "盒马（人民广场店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:00"
+],
+"order_lead_time": 39,
+"phone": "4008288477",
+"piecewise_agent_fee": {
+"description": "配送费6元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 6,
+"price": 10
+}
+],
+"tips": "配送费6元"
+},
+"promotion_info": "",
+"rating": 4.7,
+"rating_count": 1224,
+"recent_order_num": 5219,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，开票订单金额50.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+},
+{
+"address": "黄浦区南京西路258号B1层C区",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "泰煌鸡（南京西路店）",
+"distance": 352,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 30,
+"id": 1536389,
+"image_path": "16ad91eaa83343d7d611b19dfb7ac3cajpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.23239,
+"longitude": 121.47084,
+"name": "泰煌鸡（南京西路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/20:30"
+],
+"order_lead_time": 35,
+"phone": "32527293 13681823798",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 30
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "",
+"rating": 4.7,
+"rating_count": 817,
+"recent_order_num": 2057,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区海口路43号",
+"bidding": {"index":14,"target":{"restaurantId":1883367,"weight":300,"probability":9.804909706115723},"come_from":1,"next":{"restaurantId":1492057,"weight":300,"probability":9.652627944946289}},
+"description": "",
+"distance": 709,
+"float_delivery_fee": 0,
+"float_minimum_order_amount": 25,
+"id": 1883367,
+"image_path": "c54d3eff9327fb65b8b34202ac1c984fjpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.232289,
+"longitude": 121.480818,
+"name": "福荣祥烧腊（广东路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:00/19:30"
+],
+"order_lead_time": 26,
+"phone": "13661849784",
+"piecewise_agent_fee": {
+"description": "免配送费",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 0,
+"price": 25
+}
+],
+"tips": "免配送费"
+},
+"promotion_info": "本店套餐饭里面提供的调料是烧鸭、烧鹅或烧肉的调料！由于天气日渐炎热。小店将原来的赠送冰红茶更换为速溶汤，",
+"rating": 4.6,
+"rating_count": 62,
+"recent_order_num": 333,
+"recommend": {
+"reason": "广告",
+"track": {"rankType":"8"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+},
+{
+"address": "黄浦区 南京东路800号东方商厦9楼",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "新白鹿餐厅(南京东路店)",
+"distance": 963,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 49918,
+"image_path": "0eb37db04ae403007980d466f884fd81jpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.237134,
+"longitude": 121.480028,
+"name": "新白鹿（南京东路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/14:00",
+"16:00/21:00"
+],
+"order_lead_time": 40,
+"phone": "021-53865688 15958124670",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "欢迎光临，尊敬的顾客用餐高峰请提前预约，感谢配合！ 配送中有任何问题请致电60520713",
+"rating": 4.6,
+"rating_count": 2398,
+"recent_order_num": 4245,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市崇明县长兴镇丰福路599弄181号108室",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "",
+"distance": 1450,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1439508,
+"image_path": "30bf2572644ccf70e16c65e1aaed94e3png",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.2364928315677,
+"longitude": 121.487175721838,
+"name": "苏桂坊脆皮鸡饭",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:00/22:00"
+],
+"order_lead_time": 36,
+"phone": "18502107773 13516896232",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "对不起 我们来晚了 正宗脆皮鸡饭 唯选苏桂坊 火爆苏浙沪的正宗脆皮鸡饭来沪了 寒冷冬季来了 我们和外卖小哥会第一时间将餐送到您的身边 ",
+"rating": 4.7,
+"rating_count": 1074,
+"recent_order_num": 9215,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入外卖保计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "南京东路299号地下一层B-104单元",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "P&Z正式入驻人民广场，为提供美味健康的脆皮鸡饭而来，为喂饱各位辛苦工作的亲们而来！",
+"distance": 923,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1786485,
+"image_path": "c6585e0152d5296417d19cd46500bf32png",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.227932,
+"longitude": 121.482983,
+"name": "P&Z脆皮炸鸡饭",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/21:00"
+],
+"order_lead_time": 42,
+"phone": "17721131361",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "请注意：各位P＆Z的上帝请注意，今日食材已售罄，感谢各位上帝的支持与厚爱！明天9点半准时营业",
+"rating": 4.6,
+"rating_count": 414,
+"recent_order_num": 2921,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市静安区安远路899号",
+"description": "",
+"distance": 3940,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 20,
+"id": 2102080,
+"image_path": "8d416402e2934870d43d055a049a1508jpeg",
+"is_new": true,
+"is_premium": false,
+"latitude": 31.23462,
+"longitude": 121.43256,
+"name": "有米粥铺（安远路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"07:00/21:00"
+],
+"order_lead_time": 20,
+"phone": "18702116098",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 20
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "",
+"rating": 4.6,
+"rating_count": 12,
+"recent_order_num": 35,
+"recommend": {
+"track": {"rankType":"6"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+},
+{
+"address": "上海市普陀区宜川路11号",
+"bidding": {"index":19,"target":{"restaurantId":1492057,"weight":300,"probability":9.652627944946289},"come_from":1,"next":{"restaurantId":331099,"weight":300,"probability":8.718015670776367}},
+"description": "",
+"distance": 4216,
+"float_delivery_fee": 12,
+"float_minimum_order_amount": 40,
+"id": 1492057,
+"image_path": "3a91a3ba3def62dd843e70b872672607jpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.256252,
+"longitude": 121.441291,
+"name": "TheFrypan炸鸡啤酒&脆皮鸡饭",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/24:00"
+],
+"order_lead_time": 42,
+"phone": "15821637214",
+"piecewise_agent_fee": {
+"description": "配送费12元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 12,
+"price": 40
+}
+],
+"tips": "配送费12元"
+},
+"promotion_info": "",
+"rating": 4.5,
+"rating_count": 1184,
+"recent_order_num": 4426,
+"recommend": {
+"reason": "广告",
+"track": {"rankType":"8"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [ ]
+},
+{
+"address": "上海市静安区南京西路694号三楼（时尚698广场）",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "",
+"distance": 930,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1353811,
+"image_path": "2c2a063ea0a1d45aea47482c1cb37553png",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.23113,
+"longitude": 121.46396,
+"name": "白领小厨（698广场店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/19:30"
+],
+"order_lead_time": 42,
+"phone": "15821964725",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "各位小主，本店优先配送饿了么，遇到恶劣天气送餐比较慢，请多担待，如果你的餐凉了，或者口味不好，一定要第一时间和本店联系，做的不好的地方，我们好改进，在这个寒冷的冬季，我们一定努力温暖您的胃，如果你对送餐服务口味满意请给我5好评哦，，，，饿了么网络订餐，汇集周边所有美食水果",
+"rating": 4.4,
+"rating_count": 786,
+"recent_order_num": 5642,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区九江路366号七楼",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "",
+"distance": 1095,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 1469767,
+"image_path": "c6f1c440d82187bbc022fbd2fb29d8dajpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.23615,
+"longitude": 121.483031,
+"name": "浏阳蒸菜（南京东路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/21:00"
+],
+"order_lead_time": 36,
+"phone": "13723865911",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "新店开业优惠多多。记得点米饭哦！配送中有任何问题请致电60520713谢谢",
+"rating": 4.3,
+"rating_count": 504,
+"recent_order_num": 2224,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区南京西路388号地下一层B04单元",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "ROCKY KITCHEN 瑞客意厨",
+"distance": 443,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 641404,
+"image_path": "5dd98b2560e2c5e4d717e0707979ee3cpng",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.231353,
+"longitude": 121.469184,
+"name": "ROCKY KITCHEN 瑞客意厨",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:25"
+],
+"order_lead_time": 38,
+"phone": "63181777 13818799967",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": " 为保证您外卖的最佳口感，请提前60分钟订餐。 如遇雨雪等特殊天气，请您耐心等候，我们将全力为您配送外卖。",
+"rating": 4.8,
+"rating_count": 389,
+"recent_order_num": 1935,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "黄浦区瑞金街道茂名南路80号",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "每次去都会点虾饺，凤爪，菠萝包，招牌西米露，另外再看当天的心情点主食和其他。",
+"distance": 1923,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 495378,
+"image_path": "1c637445f0e697575bca81a514dd866ejpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.2165597046302,
+"longitude": 121.461521465754,
+"name": "甜蜜蜜港式茶餐厅（茂名路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:30"
+],
+"order_lead_time": 46,
+"phone": "021-64726575 021-64726553",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "点外卖？还没想好吃什么吧！我只点甜蜜蜜，你不来试试？",
+"rating": 4.4,
+"rating_count": 1036,
+"recent_order_num": 3298,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "福建中路192号",
+"bidding": {"index":24,"target":{"restaurantId":331099,"weight":300,"probability":8.718015670776367},"come_from":1,"next":{"restaurantId":359905,"weight":180,"probability":14.186385154724121}},
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": " ",
+"distance": 870,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 331099,
+"image_path": "09fd325a09d63c139a12f267caf31593jpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.234069,
+"longitude": 121.481773,
+"name": "正龙桂林米粉",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:00"
+],
+"order_lead_time": 33,
+"phone": "13816052663",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "各位小主，本店优先配送饿了么，遇到恶劣天气送餐较慢，请多多担待哈！如果您的美食凉了，或者口味不好，一定要第一时间和本店联系，做得不好的地方我们一定加油改进，在这个寒冷的冬季，我们一定努力温暖您的胃，如您对送餐服务口味满意请给我5分好评呦！！！饿了么网络订餐，汇集周边所有美食，水果、生鲜、烧烤、超市、美食快餐应有尽！美好生活，触手可得！！！",
+"rating": 4.8,
+"rating_count": 53,
+"recent_order_num": 72,
+"recommend": {
+"reason": "广告",
+"track": {"rankType":"8"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市静安区南京西路街道威海路906号",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "每次去都会点虾饺，凤爪，菠萝包，招牌西米露，另外再看当天的心情点主食和其他。",
+"distance": 1904,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 518501,
+"image_path": "1c637445f0e697575bca81a514dd866ejpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.2243171664369,
+"longitude": 121.454968206005,
+"name": "甜蜜蜜港式茶餐厅（威海路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/21:30"
+],
+"order_lead_time": 38,
+"phone": "021-52125330",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "点外卖？还没想好吃什么吧！我只点甜蜜蜜，你不来试试？",
+"rating": 4.6,
+"rating_count": 1115,
+"recent_order_num": 3259,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "上海市黄浦区人民广场百联世茂商场5楼(近西藏中路)",
+"delivery_mode": {
+"color": "57A9FF",
+"id": 1,
+"is_solid": true,
+"text": "蜂鸟专送"
+},
+"description": "",
+"distance": 505,
+"float_delivery_fee": 9,
+"float_minimum_order_amount": 0,
+"id": 2088834,
+"image_path": "f76d70b13eff694cacc12b4763ac9ccbpng",
+"is_new": true,
+"is_premium": false,
+"latitude": 31.23454,
+"longitude": 121.47583,
+"name": "［彩泥·云南菜－梯田餐厅］百联世茂店",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"11:00/14:30",
+"17:00/21:00"
+],
+"order_lead_time": 43,
+"phone": "021-63331519",
+"piecewise_agent_fee": {
+"description": "订单满100免配送费，20至100付5元，不满20付9元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 9,
+"price": 0
+},
+{
+"fee": 5,
+"price": 20
+},
+{
+"fee": 0,
+"price": 100
+}
+],
+"tips": "满20配送费5元，满100免"
+},
+"promotion_info": "",
+"rating": 4.8,
+"rating_count": 8,
+"recent_order_num": 44,
+"recommend": {
+"track": {"rankType":"7"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "已加入“外卖保”计划，食品安全有保障",
+"icon_color": "999999",
+"icon_name": "保",
+"id": 7,
+"name": "外卖保"
+},
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+},
+{
+"description": "准时必达，超时秒赔",
+"icon_color": "57A9FF",
+"icon_name": "准",
+"id": 9,
+"name": "准时达"
+}
+]
+},
+{
+"address": "浙江中路465号底层",
+"description": "冒菜是一个人的火锅，火锅是一群人的冒菜",
+"distance": 784,
+"float_delivery_fee": 2,
+"float_minimum_order_amount": 40,
+"id": 263900,
+"image_path": "bbc3c9b01694feb02d3e6bf9003231f6jpeg",
+"is_new": false,
+"is_premium": true,
+"latitude": 31.236742,
+"longitude": 121.477249,
+"name": "蜀地冒菜（浙江中路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/22:00"
+],
+"order_lead_time": 49,
+"phone": "15618577675",
+"piecewise_agent_fee": {
+"description": "配送费2元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 2,
+"price": 40
+}
+],
+"tips": "配送费2元"
+},
+"promotion_info": "各位大大，用餐高峰期请您提前定餐。 下单的时候麻烦地址详细点，如果不小心给您少了哪个菜，请及时联系我们，谢谢，如果您觉得本餐厅味道好的话，请点击收藏本店哦",
+"rating": 4.6,
+"rating_count": 1486,
+"recent_order_num": 2941,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [ ]
+},
+{
+"address": "上海市黄浦区南京东路299号地下一层B-112单元",
+"description": "",
+"distance": 1271,
+"float_delivery_fee": 5,
+"float_minimum_order_amount": 20,
+"id": 2117405,
+"image_path": "8aae91527b4eda8cacc59e1d71e15ba8png",
+"is_new": true,
+"is_premium": false,
+"latitude": 31.23772,
+"longitude": 121.48394,
+"name": "超级鸡车（宏伊广场二代店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"10:00/21:50"
+],
+"order_lead_time": 22,
+"phone": "02163293099",
+"piecewise_agent_fee": {
+"description": "配送费5元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 5,
+"price": 20
+}
+],
+"tips": "配送费5元"
+},
+"promotion_info": "超级鸡车二代店-新一代旗舰装修、全新改良配方.新推出新鲜炸鸡沙拉",
+"rating": 4.9,
+"rating_count": 5,
+"recent_order_num": 29,
+"recommend": {
+"track": {"rankType":"6"}
+},
+"regular_customer_count": 0,
+"status": 1,
+"supports": [ ]
+},
+{
+"address": "威海路94号",
+"description": "星期一便当创立于2000年，秉持着“新鲜、美味、快速、服务”的企业经营理念来服务消费者，而颇受消费大众的信赖与认同，我们将持续努力并创新产品，以更经济、更美味、更符合大众需求为导向的便当产品迈进。",
+"distance": 485,
+"float_delivery_fee": 3,
+"float_minimum_order_amount": 10,
+"id": 16466,
+"image_path": "96327bc96c4b0a27049c923d5f5d52dbjpeg",
+"is_new": false,
+"is_premium": false,
+"latitude": 31.22782,
+"longitude": 121.46955,
+"name": "星期一便当（直营威海路店）",
+"next_business_time": "",
+"only_use_poi": false,
+"opening_hours": [
+"09:30/20:00"
+],
+"order_lead_time": 47,
+"phone": "63591857 63592492 63591872 15026629408",
+"piecewise_agent_fee": {
+"description": "配送费3元",
+"extra_fee": 0,
+"is_extra": false,
+"rules": [
+{
+"fee": 3,
+"price": 10
+}
+],
+"tips": "配送费3元"
+},
+"promotion_info": "专业便当16年 ",
+"rating": 4.7,
+"rating_count": 400,
+"recent_order_num": 3076,
+"regular_customer_count": 0,
+"status": 1,
+"supports": [
+{
+"description": "该商家支持开发票，请在下单时填写好发票抬头",
+"icon_color": "999999",
+"icon_name": "票",
+"id": 4,
+"name": "开发票"
+}
+]
+}
+]

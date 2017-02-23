@@ -1,0 +1,33 @@
+/* 
+* @Author: Marte
+* @Date:   2016-12-10 15:12:33
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-12-18 13:11:56
+*/
+html,body,div,p,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dt,dd,a{
+    margin:0px;
+    padding:0px;
+    font-family: Helvetica Neue,Tahoma,Arial,PingFangSC-Regular,Hiragino Sans GB,Microsoft Yahei,sans-serif;
+     -webkit-tap-highlight-color: transparent;
+}
+input{
+    border:none;
+    outline:none;
+}
+img{
+    border:none;
+}
+a{
+    text-decoration:none;
+    color:#999;
+}
+ul,li{
+    list-style:none;
+}
+.clearfix:after{
+    content:".";
+    display:block;
+    height:0px;
+    clear:both;
+    overflow:hidden;
+}

@@ -1,0 +1,16 @@
+<div class="swiper-container nav" >
+        <div class="swiper-wrapper>
+            <div class="swiper-slide " >
+
+               <!-- <mt-swipe :auto="4000">
+                  <mt-swipe-item v-for="item in navData" v-if="$index <= 7"><img src="https://fuss10.elemecdn.com{{ item.image_url }}" height="34" width="47" alt="" /><span>{{ item.title }}</span></mt-swipe-item>
+                </mt-swipe>-->
+
+                <div  class="" v-for="item in navData" v-if="$index <= 7"><img src="https://fuss10.elemecdn.com{{ item.image_url }}" height="34" width="47" alt="" /><span>{{ item.title }}</span></div>
+            </div>
+            <div class="swiper-slide">
+                <div v-for="item in navData" v-if="$index > 7"><img src="https://fuss10.elemecdn.com{{ item.image_url }}" height="34" width="47" alt="" /><span>{{ item.title }}</span></div>
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
